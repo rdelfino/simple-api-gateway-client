@@ -6,7 +6,7 @@
     <groupId>org.rdelfino</groupId>
     <artifactId>simple-api-gateway-client</artifactId>
     <packaging>jar</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>simple-api-gateway-client</name>
     <url>http://maven.apache.org</url>
 
