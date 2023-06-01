@@ -24,9 +24,9 @@ wrapped responses.
 ### Maven
 ```
 <dependency>
-  <groupId>org.rdelfino</groupId>
+  <groupId>io.github.rdelfino</groupId>
   <artifactId>simple-api-gateway-client</artifactId>
-  <version>1.0</version>
+  <version>1.0.0</version>
 </dependency>
 ```
 
