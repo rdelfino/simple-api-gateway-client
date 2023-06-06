@@ -2,7 +2,7 @@
 Simple AWS Api Gateway Client
 
 This is a simple Java client for Amazon API Gateway endpoints built around AWS SDK 2.x. It is useful when you don't 
-necessarily want to generate a [strongly-typed SDK](https://aws.amazon.com/blogs/developer/api-gateway-java-sdk), such 
+can't generate a [strongly-typed SDK](https://aws.amazon.com/blogs/developer/api-gateway-java-sdk), such 
 as when prototyping or scripting.
 
 The client supports both synchronous and asynchronous request/response processing models. While the client offers easy 
